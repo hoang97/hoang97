@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 My name is Do Bao Hoang - a student of ITMO university
 - 🔭 I’m currently working on Web development, Machine learning and Block-chain development
 - 🌱 I’m currently learning Information Security
-- 📫 How to reach me: https://t.me/Ivanovk97
+- 📫 How to reach me: https://t.me/hoangtumeo97
 - ⚡ Fun fact: I love to read manga and play DotA2
